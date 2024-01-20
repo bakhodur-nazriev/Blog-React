@@ -69,6 +69,6 @@
     color: white;
 }
 
-/*.blog-preview button:hover {*/
-/*    background-color: gray;*/
-/*}*/
+.blog-preview a {
+  text-decoration: none;
+}
