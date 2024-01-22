@@ -1,28 +1,16 @@
 {
   "blogs": [
     {
-      "title": "My First Blog!",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ex exercitationem facere illo incidunt ipsum nam pariatur perspiciatis, praesentium temporaLorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ex exercitationem facere illo incidunt ipsum nam pariatur perspiciatis, praesentium tempora.",
+      "title": "Big big Party!",
+      "body": "Yesterday in Dushanbe went very big party, at Rudaki park!",
       "author": "Bakhodur",
-      "id": "1"
-    },
-    {
-      "title": "Opening party",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam culpa delectus ea eveniet quibusdam reiciendis suscipit voluptas! Atque explicabo, magni non quisquam saepe ut veritatis!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam culpa delectus ea eveniet quibusdam reiciendis suscipit voluptas! Atque explicabo, magni non quisquam saepe ut veritatis!",
-      "author": "Mario",
       "id": "2"
     },
     {
-      "id": "dfb2",
-      "title": "kjdnfvjkdf",
-      "body": "kjdnfvjkdnfv",
-      "author": "Bakhodur"
-    },
-    {
-      "id": "1a32",
-      "title": "jshfvhjbf",
-      "body": "kjdfnvjkdnv",
-      "author": "Bakhodur"
+      "id": "3",
+      "title": "Big Party!",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque consequatur corporis dicta error eveniet, expedita explicabo fugit impedit iure magni minus modi molestias neque nihil non odit placeat praesentium quae similique sint sit temporibus vero voluptatem. Accusantium alias aliquid autem cupiditate debitis deleniti ducimus earum esse et, excepturi exercitationem explicabo ipsam iure labore laboriosam libero magnam magni minima modi molestiae nam numquam optio pariatur perspiciatis praesentium provident quaerat quibusdam quis quos recusandae rem repellat, repellendus rerum sequi soluta velit vitae! Cum ducimus enim eos exercitationem expedita fugit illo inventore magnam, modi molestias nesciunt pariatur placeat provident recusandae reprehenderit repudiandae rerum velit. A accusantium ad aliquam amet aut consequatur culpa deleniti ea eaque eligendi est eum facere fugiat impedit inventore ipsa libero maiores molestiae nam nemo numquam perspiciatis qui quia quo reiciendis reprehenderit repudiandae sequi similique, soluta tempore vero voluptate voluptatibus voluptatum. Autem deserunt ullam vel. Ad amet culpa cumque cupiditate delectus distinctio esse facere hic illum iusto magni molestiae necessitatibus nisi nostrum officia omnis quaerat quas qui quod repellat, repellendus saepe sapiente sed similique tempora tenetur voluptate? A accusamus assumenda aut commodi consectetur, dicta enim facilis nam nostrum omnis quam quis saepe voluptates. Deserunt est iure, natus quisquam velit veniam.",
+      "author": "Mario"
     }
   ]
 }
